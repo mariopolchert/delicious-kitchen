@@ -152,7 +152,7 @@ strong {
 -----------------------------------------*/
 .custom-btn {
   border: 0;
-  color: var(--dark-color);
+  color: var(--white-color);
   font-size: var(--menu-font-size);
   padding: 10px 35px;
 }

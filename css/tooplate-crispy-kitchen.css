@@ -152,7 +152,7 @@ strong {
 -----------------------------------------*/
 .custom-btn {
   border: 0;
-  color: var(--white-color);
+  color: var(--dark-color);
   font-size: var(--menu-font-size);
   padding: 10px 35px;
 }
@@ -379,7 +379,7 @@ strong {
 .price-tag {
   background: var(--white-color);
   border-radius: 100px;
-  color: var(--secondary-color);
+  color: var(--dark-color);
   font-size: var(--menu-font-size);
   font-weight: var(--font-weight-semibold);
   display: inline-block;
